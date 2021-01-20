@@ -648,7 +648,7 @@ h6,
 p,
 label,
 .btn,
-a {
+{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -767,7 +767,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #000;
 }
 
 .bgc-atomic-tangerine {
@@ -780,12 +780,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #222222!important;
 }
 
 .ltc-white {
@@ -833,6 +833,12 @@ h4 {
 }
 .quote__name{
     font-size: 14px;
+}
+.black{
+    color: #000;
+}
+a{
+    color: black;
 }
 /*##### SEO + ACCESS #####*/
 @media (max-width: 1024px) {
