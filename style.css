@@ -853,6 +853,11 @@ h4 {
     font-size: 14px;
 }
 
+.annuaire a{
+    line-height: 200%;
+    font-size: 15px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
